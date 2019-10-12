@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gay Calc</string>
+    <string name="hi">Hi</string>
+    <string name="hello_world">Hello world</string>
+    <string name="SumButton">+</string>
+    <string name="ResultText">Результат</string>
+    <string name="Num1_Number">Первое число</string>
+    <string name="Num2_Number">Второе число</string>
+    <string name="SubtractionButton">-</string>
+    <string name="MultiplicationButton">*</string>
+    <string name="DivisionButton">/</string>
+    <string name="PasswordText">Введите пароль</string>
+    <string name="ShowPasswordButton">Показать пароль</string>
+    <string name="GetInButton">Войти</string>
+    <string name="epicgayButton">EpicGay</string>
+    <string name="x">x</string>
+</resources>
